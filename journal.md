@@ -103,17 +103,27 @@ i want to be able to connect my bluetooth headphone and custom wireless earplugs
 
 also i found a page from the datasheet that shows exactly why im using the module- 
 
+
+
 <img width="676" height="806" alt="image" src="https://github.com/user-attachments/assets/c473793d-6d40-4d96-92aa-f5139525ceb9" />
 
 
 here is a better way of how the module looks like -
 
+
+
+
 <img width="675" height="580" alt="image" src="https://github.com/user-attachments/assets/24156314-f23e-4e70-9f3a-efaa5059ab3b" />
 
 
 
+
 and then the module block diagram- 
+
+
+
 <img width="628" height="745" alt="image" src="https://github.com/user-attachments/assets/bccafc20-cd80-49b7-80a7-401b31e90242" />
+
 
 
 
