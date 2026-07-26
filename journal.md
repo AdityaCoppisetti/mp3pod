@@ -1,4 +1,4 @@
-<img width="1312" height="593" alt="image" src="https://github.com/user-attachments/assets/681a5e14-6218-4b33-9f9c-8ff62fe45cb5" />i remember my sister used to have a really small mp3 player and i got it when she got a a phone , thus not needing the mp3 player,
+i remember my sister used to have a really small mp3 player and i got it when she got a a phone , thus not needing the mp3 player,
 i remembering adding songs to it with the help of my older cousin brother and then listening to music everywhere i went - school ,tution , bus rides you name it i took it there 
 but then i shortly after lost and i never found it again :(
 
