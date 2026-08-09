@@ -150,3 +150,8 @@ now lets get onto making the schematic
 i actually made this earlier and documented it  but it was super super bad 
 
 <img width="939" height="749" alt="image" src="https://github.com/user-attachments/assets/e78c9454-b2f8-472d-a8cd-e49efde8cc00" />
+
+okay so i just made the microcontroller again 
+
+<img width="481" height="641" alt="image" src="https://github.com/user-attachments/assets/4d2eb006-9886-4a3c-ba4f-4fac7fac3f34" />
+
