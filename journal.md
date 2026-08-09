@@ -73,8 +73,13 @@ a total of 8 pins , 6 pins excluding the vcc and gnd
 
 this info i got from robu.in 
 
+# the microcontroller - 
 
+Im using the ESP32-C3-WROOM-02
 
+<img width="609" height="406" alt="image" src="https://github.com/user-attachments/assets/03acea6b-f310-494a-b81a-dd92b6a3c0a7" />
+
+using this board ill be making my own board with required gpio pins and boot and reset button
 
 
 
