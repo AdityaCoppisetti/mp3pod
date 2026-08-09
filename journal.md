@@ -29,7 +29,15 @@ okay so i will be using this e ink display -
 <img width="1154" height="246" alt="image" src="https://github.com/user-attachments/assets/d477c76d-3e15-4d1c-a2c2-b47230cb62e2" />
 
 this is the Waveshare 2.13inch E-Ink Paper display HAT for Raspberry Pi, Three-Color
-which is honesly so exciting to use 
+which is honesly so exciting to use.
+this is made for the raspberry pi however there are pins given so i can use it with the esp32 aswell
+
+<img width="523" height="293" alt="image" src="https://github.com/user-attachments/assets/18810f12-cd82-4f67-838d-e1da959fdb18" />
+
+
+
+okay so here is more info on the e ink display -
+
 
 
 
