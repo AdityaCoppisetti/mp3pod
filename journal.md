@@ -120,3 +120,7 @@ also got the above info from robu.in
 15) Communication Protocol : I2S
 16) Power Supply : 5V DC
 17) Dimensions : 32 x 18 mm
+
+ # the sd card module 
+ 
+ <img width="1028" height="325" alt="image" src="https://github.com/user-attachments/assets/a1c28fa6-4738-4a76-85d8-6981748d19ef" />
