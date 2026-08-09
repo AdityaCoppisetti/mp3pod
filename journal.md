@@ -95,6 +95,9 @@ using this board ill be making my own board with required gpio pins and boot and
 also got the above info from robu.in 
 
 
+# the audio dac
+
+<img width="1119" height="482" alt="image" src="https://github.com/user-attachments/assets/d265515e-1428-4934-95c2-6128a77ca352" />
 
 
 
