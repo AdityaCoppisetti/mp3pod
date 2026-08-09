@@ -125,7 +125,11 @@ also got the above info from robu.in
  
  <img width="1028" height="325" alt="image" src="https://github.com/user-attachments/assets/a1c28fa6-4738-4a76-85d8-6981748d19ef" />
  which is honestly just a normal sd card module 
+
+ 
  its wired like this-
+
+
 
  <img width="463" height="264" alt="image" src="https://github.com/user-attachments/assets/15e633d3-472a-4fca-b798-23a1d6a88204" />
 
