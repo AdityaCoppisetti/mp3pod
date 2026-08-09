@@ -92,7 +92,7 @@ using this board ill be making my own board with required gpio pins and boot and
 6) Operating Temperature (°C):	-40 to 85
 7) Memory Capacity	384KB ROM, 400KB SRAM, 4MB Flash
 
-
+also got the above info from robu.in 
 
 
 
