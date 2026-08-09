@@ -40,14 +40,22 @@ okay so here is more info on the e ink display -
 
 
 # interface :- 
-VCC	3.3V/5V
-GND	Ground
-DIN	SPI MOSI pin
-CLK	SPI SCK pin
-CS	SPI chip selection, low active
-DC	Data/Command selection (high for data, low for command)
-RST	External reset, low active
-BUSY	Busy status output, high active
+1) VCC	3.3V/5V
+2) GND	Ground
+3) DIN	SPI MOSI pin
+4) CLK	SPI SCK pin
+5) CS	SPI chip selection, low active
+6) DC	Data/Command selection (high for data, low for command)
+7) RST	External reset, low active
+8) BUSY	Busy status output, high active
+
+a total of 8 pins , 6 pins excluding the vcc and gnd 
+
+
+
+
+
+
 
 
 
