@@ -135,3 +135,11 @@ also got the above info from robu.in
 
 
 and then the switched, at first i was using the touch capacitive buttons but when i was designing the case for the kindle im making , which used them , i realised that it makes the entire case wayyyy tooo big and i would rather my mp3 player be slim
+
+
+# the multifunctional buttons
+
+<img width="873" height="584" alt="image" src="https://github.com/user-attachments/assets/08b14923-0158-45fb-988b-b053f33851b4" />
+
+okay so im using these buttons because they are slim tiny and i really like the satisfying click they have. 
+
