@@ -82,6 +82,17 @@ Im using the ESP32-C3-WROOM-02
 using this board ill be making my own board with required gpio pins and boot and reset button
 
 
+# specifications:-
+
+1) Frequency (GHz):	2.4
+2) Data Transfer Rate	150Mbps
+3) Sensitivity (dBm):	-105
+4)
+5) Supply Voltage	3 to 3.6Mounting Type:	Surface Mount
+6) Operating Temperature (°C):	-40 to 85
+7) Memory Capacity	384KB ROM, 400KB SRAM, 4MB Flash
+
+
 
 
 
