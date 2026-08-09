@@ -52,8 +52,26 @@ okay so here is more info on the e ink display -
 a total of 8 pins , 6 pins excluding the vcc and gnd 
 
 
+# specifications :-
+
+1) Model No. / Name:	Display HAT
+2) Display Size (Inch):	2.13
+3) Display Resolution (pixel)	212 × 104
+4) Display Color	Red, Black and White
+5) Operating Voltage (V):	3.3
+6) Outline dimension (mm)	65 × 30.2
+7) Dot Pitch	0.229 × 0.228
+8) Grey level	2
+9) Viewing Angle (Deg.)	&gt;170°
+10) Interface:	3-wire SPI, 4-wire SPI
+11) Full Refresh Time (s)	15
+12) Refresh Power	26.4mW(typ.)
+13) Standby Power (mW)	&lt;0.017
+14) Dimensions (L x W x H) mm	65 x 31 x 8
+15) Weight (g):	20
 
 
+this info i got from robu.in 
 
 
 
