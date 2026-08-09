@@ -143,3 +143,4 @@ and then the switched, at first i was using the touch capacitive buttons but whe
 
 okay so im using these buttons because they are slim tiny and i really like the satisfying click they have. 
 
+they are multifunctional because i will use them for everything i.e - play , pause , next , volume up , volume down. 
