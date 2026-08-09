@@ -155,3 +155,8 @@ okay so i just made the microcontroller again
 
 <img width="481" height="641" alt="image" src="https://github.com/user-attachments/assets/4d2eb006-9886-4a3c-ba4f-4fac7fac3f34" />
 
+
+okay so ive added the lithium battery charger aswell 
+
+<img width="853" height="761" alt="image" src="https://github.com/user-attachments/assets/ae22f305-d19e-4d02-855b-57aa37e0bba8" />
+
