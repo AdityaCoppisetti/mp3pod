@@ -146,3 +146,7 @@ okay so im using these buttons because they are slim tiny and i really like the 
 they are multifunctional because i will use them for everything i.e - play , pause , next , volume up , volume down. 
 
 now lets get onto making the schematic
+
+i actually made this earlier and documented it  but it was super super bad 
+
+<img width="939" height="749" alt="image" src="https://github.com/user-attachments/assets/e78c9454-b2f8-472d-a8cd-e49efde8cc00" />
