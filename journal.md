@@ -39,6 +39,15 @@ this is made for the raspberry pi however there are pins given so i can use it w
 okay so here is more info on the e ink display -
 
 
+# interface :- 
+VCC	3.3V/5V
+GND	Ground
+DIN	SPI MOSI pin
+CLK	SPI SCK pin
+CS	SPI chip selection, low active
+DC	Data/Command selection (high for data, low for command)
+RST	External reset, low active
+BUSY	Busy status output, high active
 
 
 
