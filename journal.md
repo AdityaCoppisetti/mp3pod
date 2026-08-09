@@ -101,4 +101,22 @@ also got the above info from robu.in
 
 
 
+# Specifications :
 
+1) Product Type : I2S DAC Audio Decoder Module
+2) Model : GY-PCM5102
+3) DAC Chip : PCM5102A
+4) Audio Interface : I2S
+5) Input Interface : 3-Pin I2S
+6) Audio Output : 3.5mm Stereo Jack
+7) Audio Resolution : 16-Bit / 24-Bit / 32-Bit
+8) Output Channel : Stereo
+9) Operating Voltage : 5V DC
+10) Form Factor : PHAT Format
+11) Compatibility : Raspberry Pi & I2S Compatible Devices
+12) Signal Type : Digital Audio Input
+13) Output Type : Analog Stereo Audio
+14) Mounting Type : Board Mount
+15) Communication Protocol : I2S
+16) Power Supply : 5V DC
+17) Dimensions : 32 x 18 mm
