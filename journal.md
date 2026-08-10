@@ -276,5 +276,12 @@ oh and i went ahead and added a small hole so i can put the audio jack there . i
 <img width="773" height="707" alt="Screenshot From 2026-08-10 15-10-20" src="https://github.com/user-attachments/assets/06440503-1e84-422a-b193-ee289e29a5bc" />
 
 
+i finally did the most draining part of this entire process, i made a bill of material file in .csv 
+it was extremely draining 
+
+
+<img width="1164" height="323" alt="image" src="https://github.com/user-attachments/assets/99eb5f92-0d40-4fb7-be40-c3da67bb590e" />
+
+and now finally the project is at pause till the parts arrive and then ill continue this project 
 
 
