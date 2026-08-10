@@ -193,3 +193,6 @@ okay so i removed the crystal because apparently the esp32 module already has a 
 
 # the pcb - 
 the pcb after all the routing looks like this. ( i dont want to redesign again )
+
+<img width="962" height="600" alt="image" src="https://github.com/user-attachments/assets/fa77f83c-a240-4c00-9c6e-ddc7f15e118c" />
+
