@@ -31,3 +31,4 @@ here are some questions you must be wondering
    - i can load the songs that i am not able to download onto my home server and listen to it when the device is online.
 7) how do you load songs onto it
    - you can load the songs onto the sd card or you could upload it onto the sd card via bluetooth or wifi using the esp32 module. 
+
