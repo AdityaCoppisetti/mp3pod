@@ -196,3 +196,7 @@ the pcb after all the routing looks like this. ( i dont want to redesign again )
 
 <img width="962" height="600" alt="image" src="https://github.com/user-attachments/assets/fa77f83c-a240-4c00-9c6e-ddc7f15e118c" />
 
+and then 
+
+<img width="663" height="435" alt="image" src="https://github.com/user-attachments/assets/45708665-bf26-4312-bdfc-aec4dc75cc45" />
+
