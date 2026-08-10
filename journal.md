@@ -221,4 +221,10 @@ version 1-
 <img width="879" height="695" alt="image" src="https://github.com/user-attachments/assets/d4768c67-a7e4-4db4-aa6e-c292eb77aad8" />
 
 
+version 2 - 
+
+
+<img width="715" height="411" alt="image" src="https://github.com/user-attachments/assets/08ebefdd-b928-4b02-9d2d-b4eed7484fc1" />
+
+and this was a whole mess , the pins were wired wrong and then there were 2 usb ports one for charging and one for data transfer and then all the refrences and values were butchered
 
