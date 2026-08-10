@@ -243,6 +243,7 @@ okay so i deisgned the case and i got all the components , now i need to design 
 
 it seems that i need to make the case a little more thick which is honestly alright and not a problem.
 
+
 here is how it looks
 
 
@@ -257,5 +258,7 @@ keep in mind that i wont keep the limit switches like that , i wont have the fla
 
 
 <img width="773" height="707" alt="image" src="https://github.com/user-attachments/assets/2d5e69f5-668b-4d20-8c30-3880b7fc9118" />
+
+oh and i went ahead and added a small hole so i can put the audio jack there . ill desolder it from the audio dac board and then put it in the case and then solder it.
 
 
