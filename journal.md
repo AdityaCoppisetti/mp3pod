@@ -262,3 +262,21 @@ keep in mind that i wont keep the limit switches like that , i wont have the fla
 oh and i went ahead and added a small hole so i can put the audio jack there . ill desolder it from the audio dac board and then put it in the case and then solder it.
 
 
+
+
+<img width="773" height="707" alt="Screenshot From 2026-08-10 15-08-33" src="https://github.com/user-attachments/assets/f287c038-89c3-409a-ad7d-f492f7042d06" />
+
+
+
+
+<img width="773" height="707" alt="Screenshot From 2026-08-10 15-08-45" src="https://github.com/user-attachments/assets/37bd569d-0f42-4328-a82d-e76bec084df9" />
+
+
+
+<img width="773" height="707" alt="Screenshot From 2026-08-10 15-10-20" src="https://github.com/user-attachments/assets/06440503-1e84-422a-b193-ee289e29a5bc" />
+
+
+
+<img width="773" height="707" alt="Screenshot From 2026-08-10 15-10-55" src="https://github.com/user-attachments/assets/a854cbd7-0f0c-45ae-8eed-87e7392627eb" />
+
+
