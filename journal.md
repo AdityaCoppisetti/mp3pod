@@ -187,3 +187,5 @@ and then
 and then finally - 
 
 <img width="550" height="694" alt="Screenshot From 2026-08-10 11-15-28" src="https://github.com/user-attachments/assets/a09f311e-04cf-4363-8a6d-ca0622cb1631" />
+
+okay so i removed the crystal because apparently the esp32 module already has a inbuilt crystal so i didnt really need that . so thats cool ig 
