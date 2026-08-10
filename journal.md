@@ -228,3 +228,6 @@ version 2 -
 
 and this was a whole mess , the pins were wired wrong and then there were 2 usb ports one for charging and one for data transfer and then all the refrences and values were butchered
 
+and then the version 3 ( the latest version i just designed)
+
+<img width="745" height="460" alt="image" src="https://github.com/user-attachments/assets/73b757e3-beca-4a13-8c62-36b52d1dd394" />
