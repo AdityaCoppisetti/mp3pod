@@ -214,3 +214,11 @@ and then a lil 360-
 https://github.com/user-attachments/assets/797977f9-f8a4-482c-8bfa-8ac84a7257ed
 
 
+ive made this pcb 3 times now and just look at how much ive improved
+
+version 1- 
+
+<img width="879" height="695" alt="image" src="https://github.com/user-attachments/assets/d4768c67-a7e4-4db4-aa6e-c292eb77aad8" />
+
+
+
