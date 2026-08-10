@@ -203,3 +203,14 @@ and then
 in 3d view it looks like this
 
 <img width="663" height="435" alt="Screenshot From 2026-08-10 12-20-11" src="https://github.com/user-attachments/assets/5d8debca-5161-4115-9e5b-c656eae36c59" />
+
+
+and then a lil 360- 
+
+
+
+
+
+https://github.com/user-attachments/assets/797977f9-f8a4-482c-8bfa-8ac84a7257ed
+
+
