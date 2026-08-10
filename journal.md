@@ -184,3 +184,6 @@ and then
 
 <img width="415" height="259" alt="Screenshot From 2026-08-10 11-14-45" src="https://github.com/user-attachments/assets/4004d98a-6401-46a1-a38b-0f4b0caca4ba" />
 
+and then finally - 
+
+<img width="550" height="694" alt="Screenshot From 2026-08-10 11-15-28" src="https://github.com/user-attachments/assets/a09f311e-04cf-4363-8a6d-ca0622cb1631" />
