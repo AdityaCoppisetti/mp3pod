@@ -231,3 +231,6 @@ and this was a whole mess , the pins were wired wrong and then there were 2 usb 
 and then the version 3 ( the latest version i just designed)
 
 <img width="745" height="460" alt="image" src="https://github.com/user-attachments/assets/73b757e3-beca-4a13-8c62-36b52d1dd394" />
+
+okay so here is what im gonna do- 
+im going to export the pcb from kicad in .step and then import it into onshape along with other parts and then designed the case
