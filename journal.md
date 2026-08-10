@@ -165,3 +165,7 @@ okay so ive added the lithium battery charger aswell
 finally added all the components im having a terrible migraine 
 
 <img width="702" height="755" alt="image" src="https://github.com/user-attachments/assets/f9a5af5d-f427-411f-8d2f-98d124e15146" />
+
+## august 10th 
+
+yesterday i didnt complete the pcb fully but today i am. 
