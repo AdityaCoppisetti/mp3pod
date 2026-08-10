@@ -200,3 +200,5 @@ and then
 
 <img width="663" height="435" alt="image" src="https://github.com/user-attachments/assets/45708665-bf26-4312-bdfc-aec4dc75cc45" />
 
+in 3d view it looks like this
+
