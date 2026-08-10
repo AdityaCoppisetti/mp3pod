@@ -256,3 +256,6 @@ here is how it looks
 keep in mind that i wont keep the limit switches like that , i wont have the flap like that and secondly ill cut its terminals with a cutter and use solder to connect the pins and make sure it doesnt touch anything. 
 
 
+<img width="773" height="707" alt="image" src="https://github.com/user-attachments/assets/2d5e69f5-668b-4d20-8c30-3880b7fc9118" />
+
+
