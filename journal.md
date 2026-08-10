@@ -277,6 +277,4 @@ oh and i went ahead and added a small hole so i can put the audio jack there . i
 
 
 
-<img width="773" height="707" alt="Screenshot From 2026-08-10 15-10-55" src="https://github.com/user-attachments/assets/a854cbd7-0f0c-45ae-8eed-87e7392627eb" />
-
 
