@@ -240,3 +240,19 @@ okay so i deisgned the case and i got all the components , now i need to design 
 
 <img width="787" height="698" alt="image" src="https://github.com/user-attachments/assets/dee9110e-cd74-4d7e-b5ed-8d3567ea4ab3" />
 
+
+it seems that i need to make the case a little more thick which is honestly alright and not a problem.
+
+here is how it looks
+
+
+
+<img width="569" height="357" alt="image" src="https://github.com/user-attachments/assets/0c32f27a-5bf9-43c8-ab65-696b2cc9f8cc" />
+
+
+
+
+
+keep in mind that i wont keep the limit switches like that , i wont have the flap like that and secondly ill cut its terminals with a cutter and use solder to connect the pins and make sure it doesnt touch anything. 
+
+
