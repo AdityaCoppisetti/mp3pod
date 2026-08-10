@@ -32,3 +32,14 @@ here are some questions you must be wondering
 7) how do you load songs onto it
    - you can load the songs onto the sd card or you could upload it onto the sd card via bluetooth or wifi using the esp32 module. 
 
+
+ive gotten really good at building pcbs
+
+<img width="745" height="460" alt="Screenshot From 2026-08-10 12-37-03" src="https://github.com/user-attachments/assets/5c5308cb-4f95-4bc5-b425-770e936daf8b" />
+
+<img width="663" height="435" alt="Screenshot From 2026-08-10 12-24-52" src="https://github.com/user-attachments/assets/e464748e-bfb4-4fe2-8142-ee3a7604a538" />
+
+<img width="962" height="600" alt="Screenshot From 2026-08-10 12-10-29" src="https://github.com/user-attachments/assets/81aa8adc-d1c4-4622-a1ab-6ecd6ee10362" />
+
+
+
