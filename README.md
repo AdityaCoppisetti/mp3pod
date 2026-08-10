@@ -4,7 +4,8 @@ to build it.
 i absolutely love e ink display and decided to use that as i was also using it for my kindle project.
 this is how my build looks like 
 
-<img width="818" height="675" alt="image" src="https://github.com/user-attachments/assets/49c1fb57-00b7-4bb0-9afe-4c56fa142a76" />
+<img width="1080" height="1473" alt="image" src="https://github.com/user-attachments/assets/2f919de9-38ef-4b8c-8954-4dd00120f4e5" />
+
 
 
 
