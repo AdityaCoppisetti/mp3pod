@@ -176,3 +176,7 @@ here is how i wired everything
 
 <img width="395" height="225" alt="Screenshot From 2026-08-10 11-16-31" src="https://github.com/user-attachments/assets/fab3bab7-efc8-4b55-9f9e-891d59a373d2" />
 
+and then 
+
+<img width="330" height="230" alt="Screenshot From 2026-08-10 11-15-11" src="https://github.com/user-attachments/assets/009be9f6-be31-4191-bbea-ab1571fc3411" />
+
