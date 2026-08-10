@@ -234,3 +234,9 @@ and then the version 3 ( the latest version i just designed)
 
 okay so here is what im gonna do- 
 im going to export the pcb from kicad in .step and then import it into onshape along with other parts and then designed the case
+
+okay so i deisgned the case and i got all the components , now i need to design the mockup 
+
+
+<img width="787" height="698" alt="image" src="https://github.com/user-attachments/assets/dee9110e-cd74-4d7e-b5ed-8d3567ea4ab3" />
+
