@@ -174,4 +174,5 @@ okay so apparently i didnt connect the pins to any of my modules so i just did t
 
 here is how i wired everything 
 
+<img width="395" height="225" alt="Screenshot From 2026-08-10 11-16-31" src="https://github.com/user-attachments/assets/fab3bab7-efc8-4b55-9f9e-891d59a373d2" />
 
