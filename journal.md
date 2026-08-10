@@ -169,3 +169,9 @@ finally added all the components im having a terrible migraine
 ## august 10th 
 
 yesterday i didnt complete the pcb fully but today i am. 
+
+okay so apparently i didnt connect the pins to any of my modules so i just did that 
+
+here is how i wired everything 
+
+
